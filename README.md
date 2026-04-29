@@ -1,59 +1,58 @@
-# Expozia — Политика конфиденциальности
+# Expozia — Privacy Policy
 
-**Дата вступления в силу:** 29 апреля 2026 г.
+**Effective date:** April 29, 2026
 
-## Кратко
+## Summary
 
-Expozia — это офлайн-экспонометр для iPhone. Приложение не собирает,
-не передаёт и не публикует никакие персональные данные. В нём нет
-аналитики, рекламных SDK, сторонних трекеров и наших серверов. Всё, что
-делает приложение, происходит на вашем устройстве.
+Expozia is an offline light meter for iPhone. The app does not collect,
+transmit, or share any personal data. There are no analytics, advertising
+SDKs, third-party trackers, or servers operated by us. Everything the app
+does happens on your device.
 
-## Какие разрешения запрашивает приложение
+## Permissions the app requests
 
-- **Камера.** Используется для замера яркости сцены, отрисовки живого
-  вьюфайндера и съёмки фотографий по нажатию кнопки. Кадры
-  обрабатываются на устройстве и не выгружаются никуда.
-- **Фотобиблиотека (только добавление).** Используется для сохранения
-  снимков в отдельный альбом «Expozia» в Фото. Приложение не читает и
-  не просматривает остальные фотографии в вашей библиотеке.
-- **LiDAR / датчик глубины (только Pro-модели iPhone).** Используется
-  локально для измерения расстояния до субъекта при работе со вспышкой.
-  Данные глубины считываются в реальном времени и нигде не сохраняются.
+- **Camera.** Used to read scene luminance, render the live viewfinder,
+  and capture photos when you tap the shutter. Frames are processed
+  on-device and are not uploaded anywhere.
+- **Photo Library (Add Only).** Used to save photos you capture into a
+  dedicated "Expozia" album in your Photos library. The app does not read
+  or browse the rest of your library.
+- **LiDAR / depth sensor (Pro iPhones only).** Used locally to measure
+  subject distance for flash exposure calculations. Depth data is read in
+  real time and is not stored.
 
-Любое разрешение можно отозвать в Настройках iOS в любой момент.
+You can revoke any of these permissions in iOS Settings at any time.
 
-## Какие данные хранятся на устройстве
+## Data stored on your device
 
-- **Настройки:** диапазоны ISO/диафрагмы/выдержки, шаг экспозиции,
-  режим замера, параметры вспышки и подобные предпочтения хранятся в
-  iOS UserDefaults — чтобы приложение помнило вашу конфигурацию между
-  запусками.
-- **Снимки:** сохраняются в вашу фотобиблиотеку, в альбом «Expozia», и
-  принадлежат вам. Удалить их можно в любой момент из приложения Фото.
+- **Settings:** ISO/aperture/shutter ranges, exposure step, metering mode,
+  flash configuration, and similar preferences are stored in iOS
+  UserDefaults so the app remembers your setup between launches.
+- **Captured photos:** saved to your Photos library, in the "Expozia"
+  album, and belong to you. You can delete them from the Photos app at
+  any time.
 
-Эти данные живут только на вашем устройстве. Удаление приложения
-стирает настройки; снимки остаются в фотобиблиотеке, пока вы сами их
-не удалите.
+This data lives only on your device. Uninstalling the app removes the
+settings; photos remain in your Photos library until you delete them.
 
-## Какие данные мы собираем
+## Data we collect
 
-Никакие. Приложение не делает сетевых запросов и не имеет бэкенда.
+None. The app makes no network requests and has no backend.
 
-## Передача третьим лицам
+## Sharing with third parties
 
-Никакой. Третьих лиц в схеме нет.
+None. There are no third parties involved.
 
-## Конфиденциальность детей
+## Children's privacy
 
-Приложение подходит для широкой аудитории и не собирает информацию о
-ком-либо, включая детей младше 13 лет.
+The app is suitable for general audiences and does not knowingly collect
+information from anyone, including children under 13.
 
-## Изменения в политике
+## Changes to this policy
 
-Если политика изменится, обновлённая версия появится по этому же URL
-с новой датой вступления в силу.
+If this policy changes, the updated version will appear at this URL with
+a new effective date.
 
-## Контакты
+## Contact
 
-Вопросы по политике: e.mozharovsky@gmail.com
+Questions about this policy: e.mozharovsky@gmail.com
